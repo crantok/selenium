@@ -4,7 +4,7 @@
 
 pidfile=/tmp/selenium.pid
 log=/tmp/selenium.log
-ver=2.53
+ver=3.0
 verm=${ver}.0
 jar=selenium-server-standalone-${verm}.jar
 url=http://selenium-release.storage.googleapis.com/${ver}/selenium-server-standalone-${verm}.jar
